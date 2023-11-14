@@ -1,0 +1,10 @@
+export default function HobbyLinks(){
+    const HobbyLinks = [
+    "https://www.target.com/" ,
+    "https://www.planetfitness.com/gyms/overland-mo/offers?gad_source=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buPtPv8gyyQkwop4jduw84d51jI0BnRp7UpvakL0yqM7_J2QQHNjRwUaAjn6EALw_wcB&gclsrc=aw.ds" ,
+    "https://www.netflix.com/"
+    ];
+    
+       
+}
+  
